@@ -1,0 +1,55 @@
+---
+content_type: page
+title: References
+uid: 7ba99210-a90b-6988-8271-2773167a1308
+---
+
+This section provides references to cover details not discussed in lecture. These are not required readings, but may be helpful in deepening your understanding of the subject.
+
+| LEC # | TOPICS | REFERENCES |
+| --- | --- | --- |
+| {{< td-colspan 3 >}}**Basic Homotopy Theory** {{< /td-colspan >}} |||
+| 1 | Limits, Colimits, and Adjunctions | Mac Lane, Saunders. _Categories for the Working Mathematician_. 2nd ed. Springer, 2010. ISBN: 9780387984032. |
+| 2 | Cartesian Closure and Compactly Generated Spaces | Hatcher, Allen. _Algebraic Topology_. Cambridge University Press, 2009. ISBN: 9780521795401. {{< br >}}{{< br >}} Munkres, James Raymond. _Topology_. Prentice Hall, 2000. ISBN: 9780139254956. {{< br >}}{{< br >}} Neil Strickland's notes on ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Category of CGWH Spaces_ (PDF)](http://neil-strickland.staff.shef.ac.uk/courses/homotopy/cgwh.pdf) (but in 2.12 he means the category CG, not CGWH). {{< br >}}{{< br >}} Martin Frankland’s notes on ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Homotopy Theory_ (PDF)](http://www.home.uni-osnabrueck.de/mfrankland/Math527/Math527_0116.pdf). {{< br >}}{{< br >}}  |
+| 3 | Basepoints and the Homotopy Category | Fritsch, Rudolf, and Renzo A. Piccinini. _Cellular Structures in Topology_. Cambridge University Press, 1990. ISBN: 9780521327848. |
+| 4 | Fiber Bundles |  {{< br >}}{{< br >}} An animation of fibers in the Hopf fibration over various points on the two-sphere by Niles Johnson. "[Hopf fibration -- fibers and base](https://www.youtube.com/watch?v=AKotMPGFJYk)." YouTube. {{< br >}}{{< br >}} Dundas, Bjørn Ian. _A Short Course in Differential Topology_. Cambridge University Press, 2018. ISBN: 9781108425797. {{< br >}}{{< br >}}  |
+| 5 | Fibrations, Fundamental Groupoid |  {{< br >}}{{< br >}}  tom Dieck, Tammo. _Algebraic Topology._ Corrected 2nd Printing, 2010. European Mathematical Society Publishing House, 2008. ISBN: 9783037190487. {{< br >}}{{< br >}}  |
+| 6 | Cofibrations |  <No suggested references> |
+| 7 | Cofibration Sequences and Co-exactness |  ﻿<No suggested references>   |
+| 8 | Weak Equivalences and Whitehead’s Theorems |  ﻿<No suggested references>   |
+| 9 | Homotopy Long Exact Sequence and Homotopy Fibers | Strøm, Arne.  "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A Note on Cofibrations (PDF)](https://www.mscand.dk/article/view/10791/8812)." _Mathematica Scandinavica 19_ (1966) 11–14. |
+| {{< td-colspan 3 >}}**The Homotopy Theory of CW Complexes**  {{< /td-colspan >}} |||
+| 10 | Serre Fibrations and Relative Lifting | Stephen A. Mitchell's notes on ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Serre Fibrations_ (PDF)](http://pdfs.semanticscholar.org/e737/a4f8b93242910c050c2faf761236dcf60f64.pdf).  |
+| 11 | Connectivity and Approximation |  {{< br >}}{{< br >}}  Bredon, Glen. _Topology and Geometry (Graduate Texts in Mathematics 139)_. Springer, 1997. ISBN: 9780387979267. {{< br >}}{{< br >}}  Varadarajan, Kalathoor.  _The Finiteness Obstruction of C. T. C. Wall._ Canadian Mathematical Society Series of Monographs and Advanced Texts, John Wiley and Sons, 1989. ISBN: 9780471623069. {{< br >}}{{< br >}}  |
+| 12 | Cellular Approximation, Obstruction Theory |  ﻿<No suggested references>   |
+| 13 | Hurewicz, Moore, Eilenberg, Mac Lane, and Whitehead |  ﻿<No suggested references>   |
+| 14 | Representability of Cohomology | Brown, Edgar. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Cohomology Theories (PDF - 1.3MB)](https://pdfs.semanticscholar.org/d7eb/bc1cfe28069b90e865c875b8979adbf7a36a.pdf)." _Annals of Mathematics_ 75 (1962) 467–484.  |
+| 15 | Obstruction Theory |  {{< br >}}{{< br >}} James Davis' and Paul Kirk's notes on ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Algebraic Topology_ (PDF - 3.8MB)](http://www.indiana.edu/~jfdavis/teaching/m623/book.pdf) {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Vector Bundles and Principal Bundles**  {{< /td-colspan >}} |||
+| 16 | Vector Bundles |  {{< br >}}{{< br >}} Husemöller, Dale. _Fibre Bundles,_ 3rd edition. Springer, 1993. ISBN: 9780387940878. {{< br >}}{{< br >}}  |
+| 17 | Principal Bundles, Associated Bundles |  ﻿<No suggested references>   |
+| 18 | _I_\-invariance of Bun_G_, and _G_\-CW Complexes |  {{< br >}}{{< br >}} Stephen A. Mitchell's notes on [_Principal Bundles and Classifying Spaces_](http://www.semanticscholar.org/paper/Notes-on-principal-bundles-and-classifying-spaces-Mitchell/48d9f0f16900ea62773b4f86b761aca71906804b). {{< br >}}{{< br >}} Lück, Wolfgang. "[Survey on Classifying Spaces for Families of Subgroups](http://arxiv.org/abs/math/0312378)." (2005) 269–322. {{< br >}}{{< br >}} Illman, Sören. "[The Equivariant Triangulation Theorem for Actions of Compact Lie Groups](https://link.springer.com/article/10.1007/BF01456063)." _Mathematische Annalen_. 262, no. 4 (1983) 487–501. {{< br >}}{{< br >}}  |
+| 19 | The Classifying Space of a Group |  {{< br >}}{{< br >}}  Knapp, Anthony William. _Lie Groups Beyond an Introduction_. 2nd ed. Birkhäuser, 2002. ISBN:  9780817642594. {{< br >}}{{< br >}}  |
+| 20 | Simplicial Sets and Classifying Spaces |  {{< br >}}{{< br >}} Milnor, John. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Geometric Realization of a Semi-Simplicial Complex (PDF)](https://pdfs.semanticscholar.org/7cbe/0482ce422d3adcc84be80b5ab3f68520a247.pdf)." _Annals of Mathematics_ 65, No. 2 (1957) 357–362. {{< br >}}{{< br >}} Goerss, Paul and Jardine, John. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Simplicial Homotopy Theory (PDF - 3.9MB)](https://link.springer.com/content/pdf/10.1007%2F978-3-0346-0189-4.pdf)." _Progress in Mathematics_ 174, Birkhäuser Verlag, 1999. {{< br >}}{{< br >}}  |
+| 21 | The Čech Category and Classifying Maps |  {{< br >}}{{< br >}} Segal, Graeme. 1968. "[Classifying Spaces and Spectral Sequences](https://link.springer.com/article/10.1007%2FBF02684591)." _Publications Mathématiques._ 27 (34): 105–112. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Spectral Sequences and Serre Classes** {{< /td-colspan >}} |||
+| 22 | Why Spectral Sequences? | Miller, Haynes. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Leray in Oflag XVIIA: The Origins of Sheaf Theory, Sheaf Cohomology, and Spectral Sequences (PDF)](http://math.mit.edu/~hrm/papers/ss.pdf)." _Gazette des Mathematiciens_ 84 suppl (2000) 17–34. |
+| 23 | The Spectral Sequence of a Filtered Complex |  ﻿<No suggested references>   |
+| 24 | Serre Spectral Sequence | Serre, Jean-Pierre. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Homologie Singulière des Espaces Fibrés (PDF - 6.2MB)](https://pdfs.semanticscholar.org/5a09/6b39b89f584e1039e6f67fe7367557776099.pdf)." Applications. _Annals of Mathematics_ 54 (1951), 425–505. |
+| 25 | Exact Couples | <No suggested references>   |
+| 26 | The Gysin Sequence, Edge Homomorphisms, and the  {{< br >}}Transgression | <No suggested references>    |
+| 27 | The Serre Exact Sequence and the Hurewicz Theorem |  {{< br >}}{{< br >}} Spanier, Edwin H. _Algebraic Topology_. Springer, 1966. ISBN: 9780387944265. (and later reprints) {{< br >}}{{< br >}}  |
+| 28 | Double Complexes and the Dress Spectral Sequence | Dress, A. "[Zur Spectralsequenz von Faserungen](http://gdz.sub.uni-goettingen.de/dms/load/img/?PID=GDZPPN002086492)." _Inventiones mathematicae_ 3 (1967): 172-178. |
+| 29 | Cohomological Spectral Sequences | <No suggested references>    |
+| 30 | Serre Classes | <No suggested references>    |
+| 31 | Mod C Hurewicz and Whitehead Theorems | <No suggested references>    |
+| 32 | Freudenthal, James, and Bousfield |  {{< br >}}{{< br >}} Miller, Haynes and Douglas Ravenel. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mark Mahowald’s Work on the Homotopy Groups of Spheres (PDF)](https://web.math.rochester.edu/people/faculty/doug/mypapers/mahowalds-groups.pdf)." Algebraic Topology, Oaxtepec 1991, _Contemporary Mathematics_ 146 (1993) 1–30. {{< br >}}{{< br >}} Bousfield, Aldridge Knight. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Localization of Spaces with Respect to Homology (PDF - 1.1MB)](https://pdfs.semanticscholar.org/165f/3e5133bbf65f591610301a853b702bd00a6b.pdf)." _Topology_ 14 (1975) 133–150. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**Characteristic Classes, Steenrod Operations, and Cobordism** {{< /td-colspan >}} |||
+| 33 | Chern Classes, Stiefel-Whitney Classes, and the Leray-Hirsch Theorem | <No suggested references>    |
+| 34 | _H_\*(_BU_(_n_)) and the Splitting Principle | <No suggested references>    |
+| 35 | The Thom Class and Whitney Sum Formula | <No suggested references>    |
+| 36 | Closing the Chern Circle, and Pontryagin Classes | <No suggested references>    |
+| 37 | Steenrod Operations | <No suggested references>    |
+| 38 | Cobordism |  {{< br >}}{{< br >}} Stong, Robert Evert. _Notes on Cobordism Theory_. Princeton University Press, 2015. ISBN: 9780691622217. (Originally published in 1968) {{< br >}}{{< br >}} Thom, René. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quelques Propriétés Globales des Variétés Différentiables (PDF)](https://link.springer.com/content/pdf/10.1007/BF02566923.pdf)." _Commentarii Mathematici Helvitici_ 28 (1954) 17–86. {{< br >}}{{< br >}} Atiyah, Michael. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Thom Complexes](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s3-11.1.291)." _Proceedings of the London Philosophical Society_ 11 (1961) 291–310. {{< br >}}{{< br >}}  |
+| 39 | Hopf Algebras  | Milnor, John. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Steenrod Algebra and its Dual (PDF - 1.4MB)](https://web.math.rochester.edu/people/faculty/doug/otherpapers/Milnor-A.pdf)." _Annals of Mathematics_ 67 (1958) 150–171.  |
+| 40  | Applications of Cobordism  |  {{< br >}}{{< br >}} Atiyah, Michael. "Bordism and Cobordism." _Proceedings of the Cambridge Philosophical Society_ 57 (1961) 200–208. {{< br >}}{{< br >}} Milnor, John. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A Procedure for Killing Homotopy Groups of Differentiable Manifolds (PDF)](https://www.ams.org/books/pspum/003/0130696/pspum003-0130696.pdf)." _Proceedings of Symposia in Pure Mathematics_, III (1961) 39–55. {{< br >}}{{< br >}}
